@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/OPEN_TO-WORK-34C759?style=for-the-badge&logo=google" />
 </p>
 
+---
 
 ## 🚀 About Me
 - 💼 Full Stack JavaScript (MERN) Developer  
@@ -19,11 +20,13 @@
 - ☁️ Learning Cloud, DevOps, and System Design
 - ⚡ Fun Fact: *I fix bugs faster when coffee is nearby ☕😄*
 
+---
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,html,mongodb,mysql,git,github,css,figma,vscode,tailwind,postman" />
 </p>
+
 
 
 ## 🌐 Connect With Me
