@@ -45,29 +45,29 @@
 
 ## 📊 GitHub Stats (Premium Neon Style)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=react&hide_border=true&background=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijit-kumbhar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijit-kumbhar&theme=react&hide_border=true&background=0D1117" height="180" />
 </p>
 
 ---
 
 ## 🚀 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-kumbhar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" />
 </p>
 
 ---
 
 ## 🧊 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abhijit-kumbhar/abhijit-kumbhar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🏆 Profile Trophies (Premium Look)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
