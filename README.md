@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+I'm+Abhijit+Kumbhar;MERN+Stack+Developer;React+%2F+Node-js+Developer;Building+Real-Time+Projects;Learning+Cloud+%26+DevOps" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,html,mongodb,mysql,git,github,css,figma,vscode,tailwind,postman" />
 </p>
 
-
+---
 
 ## 🌐 Connect With Me
 <p>
@@ -42,12 +42,14 @@
 </a>
 </p>
 
+---
 
 ## 📊 GitHub Stats (Premium Neon Style)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-kumbhar&theme=dracula" />
 </p>
 
+---
 
 ## 🚀 Most Used Languages
 <p align="center">
@@ -62,12 +64,14 @@
   </p>
 </p>
 
+---
 
 ## 🏆 Profile Trophies (Premium Look)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
+---
 
 ## 📦 Featured MERN Projects
 ⚡ 1. Loan Origination System (Full MERN)
@@ -82,12 +86,16 @@ Instant messaging + read receipts + online status
 Stripe integration
 Subscription handling + analytics
 
+---
 
 ## 💡 Developer Quote
 > *“Good code is like water — simple, clean, and flows naturally.”*
 
+---
 
 ## ❤️ Support My Work
 <p align="center">
   <img src="https://img.shields.io/badge/Thank_You_For_Visiting-FF4D67?style=for-the-badge" />
 </p>
+
+---
