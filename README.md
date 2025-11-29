@@ -73,26 +73,23 @@
 ---
 
 ## 📦 Featured MERN Projects
-⚡ 1. Loan Origination System (Full MERN)
+-⚡ 1. Loan Origination System (Full MERN)
 
 Role-based access (User, Manager, Admin)
 
 Ticket flow, approval system, dashboards
 
-
-🔥 2. Real-Time Chat App
+-🔥 2. Real-Time Chat App
 
 React + Node.js + Express + Socket.IO
 
 Instant messaging + read receipts + online status
 
-
-🚀 3. Demo-Project Billing Dashboard
+-🚀 3. Demo-Project Billing Dashboard
 
 Stripe integration
 
 Subscription handling + analytics
-
 
 ---
 
