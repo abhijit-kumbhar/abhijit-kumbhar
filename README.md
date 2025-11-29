@@ -5,7 +5,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN_TO-WORK-34C759?style=for-the-badge&logo=google" />
@@ -44,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats (Premium Neon Style)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-kumbhar&theme=dracula" />
 </p>
@@ -66,7 +65,7 @@
 
 ---
 
-## 🏆 Profile Trophies (Premium Look)
+## 🏆 Profile Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
