@@ -53,15 +53,6 @@
 
 ## 🚀 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-kumbhar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" />
-</p>
-
-## 🚀 Most Used Languages (Working Alternative)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijit-kumbhar&theme=dracula" />
-</p>
-
-<p align="center">
   <!-- Language Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijit-kumbhar&theme=dracula" />
 
