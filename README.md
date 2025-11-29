@@ -22,9 +22,13 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center" gap-200px>
-  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,mysql,git,github,html,css,figma,tailwind,vscode,postman,docker,hooks,jwt" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,mysql" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,figma,tailwind,vscode,postman,docker,hooks,jwt" />
+</p>
+
 
 ---
 
