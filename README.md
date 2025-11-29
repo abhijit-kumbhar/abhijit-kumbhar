@@ -46,7 +46,6 @@
 ## 📊 GitHub Stats (Premium Neon Style)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-kumbhar&theme=dracula" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 
@@ -56,6 +55,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-kumbhar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" />
 </p>
+
+## 🚀 Most Used Languages (Working Alternative)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijit-kumbhar&theme=dracula" />
+</p>
+
 
 ---
 
