@@ -55,8 +55,6 @@
 <p align="center">
   <!-- Language Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijit-kumbhar&theme=dracula" />
-
-  <!-- Optional Neon Badges for key languages -->
   <br><br>
   <p align="center">
   <img src="https://img.shields.io/badge/Javascript+React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
