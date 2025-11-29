@@ -75,31 +75,28 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhijit-kumbhar/abhijit-kumbhar/output/github-contribution-grid-snake.svg" />
 </p>
+## 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhijit-kumbhar/abhijit-kumbhar/main/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
 ## 🏆 Profile Trophies (Premium Look)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📦 Featured MERN Projects
-### ⚡ **1. Loan Origination System (Full MERN)**
-- Role-based access (User, Manager, Admin)  
-- Ticket flow, approval system, dashboards 
-
-### 🔥 **2. Real-Time Chat App**
-- React + Node.js + Express + Socket.IO  
-- Instant messaging + read receipts + online status  
- 
-### 🚀 **3. SaaS Billing Dashboard**
-- Stripe integration  
-- Subscription handling + analytics  
-
-➡️ Want project badges & thumbnails added? Tell me.
-
+1. Loan Origination System (Full MERN)
+<p align="center"> <!-- Project Badges --> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> <p align="center"> <!-- Project Thumbnail --> <img src="https://via.placeholder.com/600x200.png?text=Loan+Origination+System" alt="Loan Origination System" /> </p> - Role-based access (User, Manager, Admin) - Ticket flow, approval system, dashboards
+🔥 2. Real-Time Chat App
+<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> </p> <p align="center"> <img src="https://via.placeholder.com/600x200.png?text=Real-Time+Chat+App" alt="Real-Time Chat App" /> </p> - Instant messaging + read receipts + online status
+🚀 3. Demo-Project Billing Dashboard
+<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" /> </p> <p align="center"> <img src="https://via.placeholder.com/600x200.png?text=SaaS+Billing+Dashboard" alt="SaaS Billing Dashboard" /> </p> - Stripe integration - Subscription handling + analytics 
 ---
 
 ## 💡 Developer Quote
