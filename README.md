@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+I'm+Abhijit+Kumbhar;MERN+Stack+Developer;React+%2F+Node-js+Developer;Building+Real-Time+Projects;Learning+Cloud+%26+DevOps" />
 </p>
 
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" />
