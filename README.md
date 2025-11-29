@@ -93,15 +93,11 @@ Subscription handling + analytics
 
 ---
 
-## ❤️ Support My Work
+## ❤️ Thanks to Visiting
 <p align="center">
   <a href="https://github.com/abhijit-kumbhar">
     <img src="https://img.shields.io/badge/Thank_You_For_Visiting-FF4D67?style=for-the-badge" />
   </a>
 </p>
-<a href="https://github.com/abhijit-kumbhar">
-  <img src="https://img.shields.io/badge/Thank_You_For_Visiting-FF4D67?style=for-the-badge" />
-</a>
-
 
 ---
