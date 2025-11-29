@@ -3,14 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+I'm+Abhijit+Kumbhar;MERN+Stack+Developer;React+%2F+Node-js+Developer;Building+Real-Time+Projects;Learning+Cloud+%26+DevOps" />
 </p>
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN_TO-WORK-34C759?style=for-the-badge&logo=google" />
 </p>
 
----
 
 ## 🚀 About Me
 - 💼 Full Stack JavaScript (MERN) Developer  
@@ -19,14 +18,12 @@
 - ☁️ Learning Cloud, DevOps, and System Design
 - ⚡ Fun Fact: *I fix bugs faster when coffee is nearby ☕😄*
 
----
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,html,mongodb,mysql,git,github,css,figma,vscode,tailwind,postman" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p>
@@ -41,15 +38,12 @@
 </a>
 </p>
 
----
 
 ## 📊 GitHub Stats (Premium Neon Style)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-kumbhar&theme=dracula" />
 </p>
 
-
----
 
 ## 🚀 Most Used Languages
 <p align="center">
@@ -65,44 +59,29 @@
 </p>
 
 
----
-
-## 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijit-kumbhar/abhijit-kumbhar/output/github-contribution-grid-snake.svg" />
-</p>
-## 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijit-kumbhar/abhijit-kumbhar/output/github-contribution-grid-snake.svg" />
-</p>
-## 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijit-kumbhar/abhijit-kumbhar/main/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
 ## 🏆 Profile Trophies (Premium Look)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ## 📦 Featured MERN Projects
-1. Loan Origination System (Full MERN)
-<p align="center"> <!-- Project Badges --> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> <p align="center"> <!-- Project Thumbnail --> <img src="https://via.placeholder.com/600x200.png?text=Loan+Origination+System" alt="Loan Origination System" /> </p> - Role-based access (User, Manager, Admin) - Ticket flow, approval system, dashboards
+⚡ 1. Loan Origination System (Full MERN)
+Role-based access (User, Manager, Admin)
+Ticket flow, approval system, dashboards
+
 🔥 2. Real-Time Chat App
-<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> </p> <p align="center"> <img src="https://via.placeholder.com/600x200.png?text=Real-Time+Chat+App" alt="Real-Time Chat App" /> </p> - Instant messaging + read receipts + online status
+React + Node.js + Express + Socket.IO
+Instant messaging + read receipts + online status
+
 🚀 3. Demo-Project Billing Dashboard
-<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" /> </p> <p align="center"> <img src="https://via.placeholder.com/600x200.png?text=SaaS+Billing+Dashboard" alt="SaaS Billing Dashboard" /> </p> - Stripe integration - Subscription handling + analytics 
----
+Stripe integration
+Subscription handling + analytics
+
 
 ## 💡 Developer Quote
 > *“Good code is like water — simple, clean, and flows naturally.”*
 
----
 
 ## ❤️ Support My Work
 <p align="center">
