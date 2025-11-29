@@ -45,9 +45,9 @@
 
 ## 📊 GitHub Stats (Premium Neon Style)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijit-kumbhar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijit-kumbhar&theme=react&hide_border=true&background=0D1117" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-kumbhar&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
