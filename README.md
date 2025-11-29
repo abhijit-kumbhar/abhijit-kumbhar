@@ -30,7 +30,7 @@
 
 ## 🌐 Connect With Me
 <p>
-<a href="https://github.com/your-username">
+<a href="https://github.com/abhijit-kumbhar/abhijit-kumbhar">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/your-link">
