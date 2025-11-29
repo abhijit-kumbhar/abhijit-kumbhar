@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-💚🖤💙🟢?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFDD00" />
+  <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/OPEN_TO-WORK-34C759?style=for-the-badge&logo=google" />
 </p>
 
