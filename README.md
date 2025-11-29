@@ -15,8 +15,8 @@
 ## 🚀 About Me
 - 💼 Full Stack JavaScript (MERN) Developer  
 - 🔭 Working on Modern Web Apps + Real-Time Features  
-- 🧠 Practicing DSA + Scalable Architecture  
-- ☁️ Learning Cloud, DevOps, and System Design  
+- 🧠 Practicing React, Nodejs, Expressjs, MongoDB  
+- ☁️ Learning Cloud, DevOps, and System Design
 - ⚡ Fun Fact: *I fix bugs faster when coffee is nearby ☕😄*
 
 ---
