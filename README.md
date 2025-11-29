@@ -1,7 +1,8 @@
 <!-- PREMIUM GITHUB PROFILE BY CHATGPT -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=600&height=70&lines=Hi+I'm+Abhi+Kumbhar;Full+Stack+JavaScript+Developer;MERN+Stack+Developer;Clean+Code+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Hi+I'm+Abhi+Kumbhar;MERN+Stack+Developer;React+Developer;Building+Real-Time+Projects;Learning+Cloud+%26+DevOps" />
+</p>
 ---
 
 <p align="center">
